@@ -1,0 +1,24 @@
+### Hi i'm here 👋
+
+<div align="centre">
+
+[![Twitter Badge](http://img.shields.io/badge/-@code_man_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/code_man_)](https://twitter.com/code_man_) [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-arifwardan.id-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan.id/)](https://www.instagram.com/arifwardan.id/) 
+[![Facebook Badge](https://img.shields.io/badge/-ariff.wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
+![visitors](https://hit-badger.glitch.me/badge?page_id=arifwardan.arifwardan)
+ </div>
+
+**Languages, Frameworks, and Tools:**  
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://code.visualstudio.com/assets/favicon.ico"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact)](https://github.com/arifwardan)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=arifwardan&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/arifwardan)
