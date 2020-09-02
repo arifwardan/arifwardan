@@ -3,8 +3,8 @@
 <div align="centre">
 
 [![Twitter Badge](http://img.shields.io/badge/-@code_man_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/code_man_)](https://twitter.com/code_man_) [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-arifwardan.id-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan.id/)](https://www.instagram.com/arifwardan.id/) 
-[![Facebook Badge](https://img.shields.io/badge/-ariff.wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
+[![Instagram Badge](https://img.shields.io/badge/-arif_wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan.id/)](https://www.instagram.com/arifwardan.id/) 
+[![Facebook Badge](https://img.shields.io/badge/-arif_wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=arifwardan.arifwardan)
  </div>
 
