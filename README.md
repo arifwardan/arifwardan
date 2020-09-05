@@ -1,6 +1,6 @@
 ### new info 👋 
 The Best Unlimited Web Hosting <b>Discount Up To 75% Free Domain + SSL</b> Let's order immediately because the discount can end at any time! 
-don't forget to use a coupon code: <b>G3Host77</b> An additional 15% discount with this promo code is valid for ordering personal, business and cloud hosting packages for a minimum duration of 1 year.
+don't forget to use a coupon code: <b>G3Host77</b> An additional <b style="color:red">15% discount with this promo code</b> is valid for ordering personal, business and cloud hosting packages for a minimum duration of 1 year.
 note: applies exclusively to new accounts <br>
 <a href="https://panel.niagahoster.co.id/ref/360662">let's see</a>
 <div align="centre">
