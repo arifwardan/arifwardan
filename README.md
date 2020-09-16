@@ -1,9 +1,15 @@
-### new info 👋 
-The Best Unlimited Web Hosting <b>Discount Up To 75% Free Domain + SSL</b> Let's order immediately because the discount can end at any time! 
-don't forget to <b>use a coupon code: G3Host77 An additional 15% discount with this promo code</b> is valid for ordering personal, business and cloud hosting packages for a minimum duration of 1 year.
-note: applies exclusively to new accounts <br>
-<a href="https://panel.niagahoster.co.id/ref/360662">let's see bro</a>
-<div align="centre">
+### new info 
+<a href="https://github.com/arifwardan">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</a>
+
+<p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=onedark"/>
+    </p>
+
+
+<div align="center">
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow)](https://twitter.com/arifwardan_)
 [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
@@ -26,3 +32,16 @@ note: applies exclusively to new accounts <br>
 
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact)](https://github.com/arifwardan)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=arifwardan&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/arifwardan) 
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=merko" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
