@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=dracula"/>
     </p>
 
 
@@ -36,13 +36,13 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=merko" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
 </p>
 
 
 <a href="https://github.com/arifwardan/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&theme=dracula&repo=blog" />
 </a>
 <a href="https://github.com/arifwardan/bash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=bash" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&theme=dracula&repo=bash" />
 </a>
