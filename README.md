@@ -40,8 +40,8 @@
 </p>
 
 
-<a href="https://github.com/arifwardan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=github-readme-stats" />
+<a href="https://github.com/arifwardan/blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=blog" />
 </a>
 <a href="https://github.com/arifwardan/bash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=bash" />
