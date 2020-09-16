@@ -31,9 +31,9 @@
 <code><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></code>
  </div>
 
-<p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=dracula"/>
- </p>
+<div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=dracula"/>
+ </div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
