@@ -5,7 +5,9 @@ note: applies exclusively to new accounts <br>
 <a href="https://panel.niagahoster.co.id/ref/360662">let's see bro</a>
 <div align="centre">
 
-[![Twitter Badge](http://img.shields.io/badge/-@Arif_Wardan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/arifwardan_)](https://twitter.com/arifwardan_) [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
+[![Twitter Badge](http://img.shields.io/badge/-@Arif_Wardan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/arifwardan_)](https://twitter.com/arifwardan_) 
+[![Twitter followers](https://twitter.com/intent/user?original_referer=https%3A%2F%2ArifWardan%2F&ref_src=twsrc%5Etfw&region=count_link&screen_name=arifwardan_&tw_p=followbutton)]
+[![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan.id/)](https://www.instagram.com/arifwardan.id/) 
 [![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=arifwardan.arifwardan)
