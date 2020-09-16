@@ -18,8 +18,11 @@
 ![visitors](https://hit-badger.glitch.me/badge?page_id=arifwardan.arifwardan)
  </div>
 
-**Languages, Frameworks, and Tools:**  
-
+<div align="center">
+<b>Languages, Frameworks, and Tools :</b>  
+ </div>
+ 
+<div align="center">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,9 +32,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact)](https://github.com/arifwardan)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=arifwardan&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/arifwardan) 
+ </div>
 
 
 <p align="center">
