@@ -1,12 +1,8 @@
-### new info 
+### hi there
 <a href="https://github.com/arifwardan">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
-
-<p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=dracula"/>
-    </p>
 
 
 <div align="center">
@@ -22,7 +18,7 @@
 <b>Languages, Frameworks, and Tools :</b>  
  </div>
  
-<div align="center">
+<div align="center" color="blue">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,8 +28,12 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></code>
  </div>
 
+<p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&column=7&theme=dracula"/>
+ </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
