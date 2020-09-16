@@ -5,7 +5,7 @@ note: applies exclusively to new accounts <br>
 <a href="https://panel.niagahoster.co.id/ref/360662">let's see bro</a>
 <div align="centre">
 
-[![Twitter Badge](https://img.shields.io/badge/-@arifwardan_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/arifwardan_)](https://twitter.com/arifwardan_)
+[![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow)](https://twitter.com/arifwardan_)
 [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan.id/)](https://www.instagram.com/arifwardan.id/) 
 [![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
