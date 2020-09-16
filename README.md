@@ -39,10 +39,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
 </p>
 
-
+<p align="center">
 <a href="https://github.com/arifwardan/blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&theme=dracula&repo=blog" />
 </a>
 <a href="https://github.com/arifwardan/bash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&theme=dracula&repo=bash" />
 </a>
+</p>
+
