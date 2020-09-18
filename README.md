@@ -32,7 +32,7 @@
  </div>
 
 <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=dracula"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=onedark"/>
  </div>
 
 <p align="center">
