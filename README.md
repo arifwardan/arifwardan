@@ -4,6 +4,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
 
+<div align="center">so often we rob tomorrow's memories by today's economies</div>
 
 <div align="center">
 
