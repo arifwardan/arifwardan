@@ -4,7 +4,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
 
-<div align="center"><b><i>SELF-CONFIDENCE is the first requisite to great undertaking<i></b></div><br>
+<div align="center"><b><i>SELF-CONFIDENCE is the first requisite to great undertakings<i></b></div><br>
 
 <div align="center">
 
