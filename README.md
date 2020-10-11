@@ -4,8 +4,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
 
-<div align="center"></div>
-
 <div align="center">
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=<green>)](https://twitter.com/arifwardan_)
