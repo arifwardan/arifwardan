@@ -8,7 +8,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=<green>)](https://twitter.com/arifwardan_)
 [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardann/)](https://www.instagram.com/arifwardann/) 
+[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardann/) 
 [![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
 
  </div>
@@ -34,11 +34,11 @@
         <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=onedark"/>
  </div>
 
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
-</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
+</p>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
 </p>
 
 <p align="center">
