@@ -8,7 +8,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=<green>)](https://twitter.com/arifwardan_)
 [![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardann/) 
+[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardan_/) 
 [![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
 
  </div>
