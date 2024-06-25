@@ -17,17 +17,38 @@
 <b>Languages, Frameworks, and Tools :</b>  
  </div>
  
-<div align="center" color="blue">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://code.visualstudio.com/assets/favicon.ico"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img  height="25" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></code>
- </div>
+<p align="left">
+<img alt="pinguin" title="pinguin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+<img alt="ubuntu" title="ubuntu" height="35" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"> 
+<img alt="terminal" title="terminal" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> 
+<img alt="git" title="git" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
+<img alt="vscode" title="vscode" height="35" src="https://code.visualstudio.com/assets/favicon.ico"> 
+<img alt="apache2" title="apache2" height="35" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"> 
+<img alt="nginx" title="nginx" height="35" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"> 
+<img alt="mySQL" title="mySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+<img alt="phpMyadmin" title="phpMyadmin" height="35" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> 
+<img alt="postgresql" title="postgresql" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+<img alt="php" title="php" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
+<img alt="javascript" title="javascript" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+<img alt="jQuery" title="jQuery" height="35" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"> 
+<img alt="npm" title="npm" height="35" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> 
+<img alt="composer" title="composer" height="35" src="https://avatars.githubusercontent.com/u/837015?s=200&v=4"> 
+<img alt="HTML5" title="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
+<img alt="CSS3" title="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
+<img alt="bootstrap" title="bootstrap" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+<img alt="semantic-ui" title="semantic-ui" height="35" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI/master/examples/assets/images/logo.png"> 
+<img alt="code-igniter" title="code-igniter" height="35" src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png"> 
+<img alt="laravel" title="laravel" height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> 
+<img alt="laravolt" title="laravolt" height="35" src="https://avatars.githubusercontent.com/u/13552888?s=200&v=4"> 
+<img alt="postman" title="postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
+<img alt="heroku" title="heroku" height="35" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> 
+<img alt="cpanel" title="cpanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/8d71f5fc-c88c-4cb1-a6cc-760e1ca4f6d8"> 
+<img alt="cloudpanel" title="cloudpanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/535a86b1-13e5-44f9-820b-0fd172e1193b"> 
+<img alt="stackoverflow" title="stackoverflow" height="35" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> 
+<img alt="trello" title="trello" height="35" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"> 
+<img alt="help_me" title="help_me" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/73b6a8fc-9154-4bc6-9fbc-615cc9eedb18">
+
+</p>
 
 <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=onedark"/>
