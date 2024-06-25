@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardan_/) 
 [![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
 [![Telegram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=telegram&link=https://www.t.me/Arif_Wardan/)](https://www.t.me/arifwardan/) 
-[![Linkedin: arif-wardan](https://img.shields.io/badge/-arifwardan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifwardan/)](https://www.linkedin.com/in/arifwardan/) 
+[![Linkedin: arif-wardan](https://img.shields.io/badge/-Arif_Wardan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifwardan/)](https://www.linkedin.com/in/arifwardan/) 
 ![](https://komarev.com/ghpvc/?username=arifwardan&style=flat-square)
 
  </div>
