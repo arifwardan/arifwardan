@@ -64,11 +64,4 @@
 
 </p>
 
-<div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=onedark"/>
- </div>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
-</p>
 
