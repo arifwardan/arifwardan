@@ -3,13 +3,15 @@
 ![GitHub Banner](https://github.com/arifwardan/images/blob/main/Arif%20Wardan.png)
 
 <div align="center">
-  <a href="https://twitter.com/arifwardan_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Badge">
+  <a href="https://x.com/intent/follow?screen_name=wardanize" target="_blank">
+      <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
   </a>
+
   <a href="https://github.com/arifwardan/?tab=follow" target="_blank">
-    <img src="https://img.shields.io/github/followers/arifwardan?label=Follow&style=for-the-badge" alt="GitHub followers">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  <a href="https://www.instagram.com/arifwardan_/" target="_blank">
+  
+  <a href="https://www.instagram.com/wardanize/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://www.facebook.com/ariff.wardan/" target="_blank">
@@ -27,7 +29,7 @@
 
 ## About Me
 - 🌟 **Visionary Leader**: My leadership philosophy is grounded in strategic thinking, bold innovation, and an unwavering commitment to excellence.
-- 💼 **CEO of Markiport**: At Markiport, we specialize in [brief description of what Markiport does]. As the CEO, I lead a talented team dedicated to pushing the boundaries of technology and delivering exceptional results.
+- 💼 **CEO of MarkiPort**: At MarkiPort, we specialize in providing an innovative B2B e-commerce platform designed to connect global buyers and suppliers seamlessly. As the CEO, I lead a talented team dedicated to pushing the boundaries of technology and delivering exceptional results.
 - 💻 **Passionate Software Engineer**: My technical expertise spans across multiple programming languages and frameworks, including Go, PHP, Python, Node.js, Shell, TypeScript, JavaScript, HTML5, and CSS. I have a deep passion for coding and a relentless drive to stay at the forefront of technological advancements.
 - 🚀 **Innovator and Problem Solver**: I thrive on solving complex problems and turning ideas into reality. My projects often involve AI, machine learning, blockchain, and other cutting-edge technologies.
 
@@ -36,19 +38,18 @@
 ### 🌟 Highlighted Projects
 
 Here are some of the key projects and repositories that I have worked on:
-- **[Project 1](https://github.com/arifwardan/project1)**: A brief description of the project, technologies used, and its impact.
-- **[Project 2](https://github.com/arifwardan/project2)**: A brief description of the project, technologies used, and its impact.
-- **[Project 3](https://github.com/arifwardan/project3)**: A brief description of the project, technologies used, and its impact.
+- **[MarkiPort](https://github.com/MarkiPort)**: MarkiPort is an advanced B2B e-commerce platform designed to streamline and optimize the export and import process for businesses. Utilizing a comprehensive suite of tools, it facilitates product listings, order management, RFQ management, and seamless communication between buyers and suppliers. Technologies used include Go for the backend, and a responsive frontend built with React and TypeScript. MarkiPort stands out by offering robust analytics, real-time notifications, and an intuitive user interface that significantly enhances the user experience and operational efficiency.
+- **[MarkiSocial](https://github.com/MarkiSocial)**: MarkiSocial is a cutting-edge social networking platform tailored for professionals and businesses. It aims to foster meaningful connections, facilitate networking opportunities, and promote business growth. The platform includes features such as profile management, content sharing, direct messaging, and community building tools. Developed using Node.js for the backend and Angular for the frontend, MarkiSocial leverages AI and machine learning algorithms to provide personalized content recommendations and insights, ensuring users can maximize their networking potential.
+- **[MarkiPay](https://github.com/MarkiPay)**: MarkiPay is a secure and efficient payment processing application designed to support businesses in managing their financial transactions. It integrates seamlessly with various financial institutions and provides features like invoice generation, payment tracking, and financial reporting. The backend is powered by PHP and the frontend by Vue.js, ensuring a smooth and reliable user experience. MarkiPay is equipped with advanced security measures, including encryption and fraud detection algorithms, to protect users' financial data and transactions.
 
 ---
 
+
 ### ✨ Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Understanding Microservices Architecture](https://medium.com/@arifwardan/understanding-microservices-architecture)
 - [Introduction to Docker and Kubernetes](https://medium.com/@arifwardan/introduction-to-docker-and-kubernetes)
 - [Optimizing SQL Queries for Better Performance](https://medium.com/@arifwardan/optimizing-sql-queries-for-better-performance)
-<!-- BLOG-POST-LIST:END -->
 
 Follow me on [Medium](https://medium.com/@arifwardan) to read more of my articles and stay updated on my latest insights.
 
@@ -62,9 +63,9 @@ Follow me on [Medium](https://medium.com/@arifwardan) to read more of my article
 ### 🔗 Get in Touch
 I am always open to new opportunities and collaborations. If you are interested in working together, have an exciting project in mind, or simply want to connect, feel free to reach out!
 
-- 📧 **Email**: [arif.wardan@example.com](mailto:arif.wardan@example.com)
+- 📧 **Email**: [arif.wardan@example.com](mailto:arifwardan.id@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/arifwardan](https://www.linkedin.com/in/arifwardan)
-- 🐦 **Twitter**: [twitter.com/arifwardan](https://twitter.com/arifwardan)
+- 🐦 **Twitter**: [twitter.com/arifwardan](https://twitter.com/wardanize)
 ---
 
 ## Let's Collaborate
