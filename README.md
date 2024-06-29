@@ -1,6 +1,6 @@
 ### Hi There, I'm Arif Wardan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-![GitHub Banner](https://your-banner-url.com/banner.jpg)
+![GitHub Banner](https://github.com/arifwardan/images/blob/main/Arif%20Wardan.png)
 
 <div align="center">
   <a href="https://twitter.com/arifwardan_" target="_blank">
@@ -108,25 +108,6 @@ You can find more articles on my [Medium profile](https://medium.com/@arifwardan
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
-
-### 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=arifwardan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
-</div>
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github.com/arifwardan/github-metrics/blob/master/github-metrics.svg" alt="GitHub Metrics">
-</div>
-
-### 📅 GitHub Contributions Calendar
-
-<div align="center">
-  <img src="https://github.com/arifwardan/contributions-calendar/blob/main/calendar.svg" alt="GitHub Contributions Calendar">
-</div>
-
 
 ---
 
