@@ -21,12 +21,9 @@
   <a href="https://www.linkedin.com/in/arifwardan/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arifwardan&style=for-the-badge" alt="Profile Views">
 </div>
 
 ---
-
-I'm **Arif Wardan**, a visionary software engineer and the CEO of [Markiport](https://markiport.com). With over [X] years of experience in the tech industry, I've dedicated my career to driving innovation and creating impactful solutions that transform businesses and enhance lives.
 
 ## About Me
 - 🌟 **Visionary Leader**: My leadership philosophy is grounded in strategic thinking, bold innovation, and an unwavering commitment to excellence.
