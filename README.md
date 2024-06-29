@@ -26,68 +26,22 @@
 
 ---
 
-### About Me
+I'm **Arif Wardan**, a visionary software engineer and the CEO of [Markiport](https://markiport.com). With over [X] years of experience in the tech industry, I've dedicated my career to driving innovation and creating impactful solutions that transform businesses and enhance lives.
 
-I am Arif Wardan, a passionate software developer with a focus on backend development, system architecture, and cloud computing. I have experience working with various technologies and tools to build robust and scalable applications.
-
----
-
-### 🚀 Languages, Frameworks, and Tools
-
-<div align="center">
-  <img alt="Linux" title="Linux" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
-  <img alt="Ubuntu" title="Ubuntu" height="35" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"> 
-  <img alt="Terminal" title="Terminal" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> 
-  <img alt="Git" title="Git" height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
-  <img alt="VSCode" title="VSCode" height="35" src="https://code.visualstudio.com/assets/favicon.ico"> 
-  <img alt="Apache" title="Apache" height="35" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"> 
-  <img alt="Nginx" title="Nginx" height="35" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"> 
-  <img alt="MySQL" title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <img alt="phpMyAdmin" title="phpMyAdmin" height="35" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> 
-  <img alt="PostgreSQL" title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
-  <img alt="PHP" title="PHP" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
-  <img alt="JavaScript" title="JavaScript" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
-  <img alt="jQuery" title="jQuery" height="35" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"> 
-  <img alt="npm" title="npm" height="35" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"> 
-  <img alt="Composer" title="Composer" height="35" src="https://avatars.githubusercontent.com/u/837015?s=200&v=4"> 
-  <img alt="HTML5" title="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
-  <img alt="CSS3" title="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> 
-  <img alt="Bootstrap" title="Bootstrap" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-  <img alt="Semantic UI" title="Semantic UI" height="35" src="https://raw.githubusercontent.com/Semantic-Org/Semantic-UI/master/examples/assets/images/logo.png"> 
-  <img alt="CodeIgniter" title="CodeIgniter" height="35" src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png"> 
-  <img alt="Laravel" title="Laravel" height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"> 
-  <img alt="Laravolt" title="Laravolt" height="35" src="https://avatars.githubusercontent.com/u/13552888?s=200&v=4"> 
-  <img alt="Postman" title="Postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> 
-  <img alt="Heroku" title="Heroku" height="35" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"> 
-  <img alt="cPanel" title="cPanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/8d71f5fc-c88c-4cb1-a6cc-760e1ca4f6d8"> 
-  <img alt="CloudPanel" title="CloudPanel" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/535a86b1-13e5-44f9-820b-0fd172e1193b"> 
-  <img alt="StackOverflow" title="StackOverflow" height="35" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> 
-  <img alt="Trello" title="Trello" height="35" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"> 
-  <img alt="Help Me" title="Help Me" height="35" src="https://github.com/syofyanzuhad/syofyanzuhad/assets/52684582/73b6a8fc-9154-4bc6-9fbc-615cc9eedb18">
-</div>
+## About Me
+- 🌟 **Visionary Leader**: My leadership philosophy is grounded in strategic thinking, bold innovation, and an unwavering commitment to excellence.
+- 💼 **CEO of Markiport**: At Markiport, we specialize in [brief description of what Markiport does]. As the CEO, I lead a talented team dedicated to pushing the boundaries of technology and delivering exceptional results.
+- 💻 **Passionate Software Engineer**: My technical expertise spans across multiple programming languages and frameworks, including Go, PHP, Python, Node.js, Shell, TypeScript, JavaScript, HTML5, and CSS. I have a deep passion for coding and a relentless drive to stay at the forefront of technological advancements.
+- 🚀 **Innovator and Problem Solver**: I thrive on solving complex problems and turning ideas into reality. My projects often involve AI, machine learning, blockchain, and other cutting-edge technologies.
 
 ---
 
 ### 🌟 Highlighted Projects
 
-<div align="center">
-  <a href="https://github.com/arifwardan/project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=project1&theme=tokyonight" alt="Project 1">
-  </a>
-  <a href="https://github.com/arifwardan/project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&repo=project2&theme=tokyonight" alt="Project 2">
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwardan&theme=tokyonight" alt="GitHub Streak Stats"> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>
+Here are some of the key projects and repositories that I have worked on:
+- **[Project 1](https://github.com/arifwardan/project1)**: A brief description of the project, technologies used, and its impact.
+- **[Project 2](https://github.com/arifwardan/project2)**: A brief description of the project, technologies used, and its impact.
+- **[Project 3](https://github.com/arifwardan/project3)**: A brief description of the project, technologies used, and its impact.
 
 ---
 
@@ -99,21 +53,25 @@ I am Arif Wardan, a passionate software developer with a focus on backend develo
 - [Optimizing SQL Queries for Better Performance](https://medium.com/@arifwardan/optimizing-sql-queries-for-better-performance)
 <!-- BLOG-POST-LIST:END -->
 
-You can find more articles on my [Medium profile](https://medium.com/@arifwardan).
+Follow me on [Medium](https://medium.com/@arifwardan) to read more of my articles and stay updated on my latest insights.
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifwardan&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</div>
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Get in Touch
+I am always open to new opportunities and collaborations. If you are interested in working together, have an exciting project in mind, or simply want to connect, feel free to reach out!
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arifwardan/) or follow me on [Twitter](https://twitter.com/arifwardan_). You can also check out my [portfolio website](https://arifwardan.com) for more information about my work and projects.
+- 📧 **Email**: [arif.wardan@example.com](mailto:arif.wardan@example.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/arifwardan](https://www.linkedin.com/in/arifwardan)
+- 🐦 **Twitter**: [twitter.com/arifwardan](https://twitter.com/arifwardan)
+---
+
+## Let's Collaborate
+I'm passionate about building the future through technology. Whether it's a challenging project, a groundbreaking idea, or an innovative solution, I'm eager to collaborate with like-minded individuals and organizations. Let's connect and create something extraordinary together!
 
 ---
 
@@ -125,8 +83,48 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arifwarda
 
 ---
 
+### 🚀 Languages, Frameworks, and Tools
+
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=shell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-8AC0FE?style=flat-square&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CI](https://img.shields.io/badge/-CI-007ACC?style=flat-square&logo=ci&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Echo](https://img.shields.io/badge/-Echo-00ADD8?style=flat-square&logo=echo&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/-Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+---
+
 <div align="center">
   <h2>Thank You for Visiting!</h2>
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV6bnJxOXMydmZqdWI4ZjFkd3U2Z25pOGJwOGF0b3ZmOWh5Mzk4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kf7wTk5jlhw6Eg6BXJ/giphy.webp" width="1000px">
 </div>
 
