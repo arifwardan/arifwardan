@@ -6,15 +6,16 @@
 
 <div align="center">
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=<green>)](https://twitter.com/arifwardan_)
-[![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardan_/) 
-[![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/) 
-[![Telegram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=telegram&link=https://www.t.me/Arif_Wardan/)](https://www.t.me/arifwardan/) 
-[![Linkedin: arif-wardan](https://img.shields.io/badge/-Arif_Wardan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifwardan/)](https://www.linkedin.com/in/arifwardan/)(target='blank_')
+[![Twitter Badge](https://img.shields.io/twitter/follow/arifwardan_?label=Follow&color=<green>)](https://twitter.com/arifwardan_){:target="_blank"}
+[![GitHub followers](https://img.shields.io/github/followers/arifwardan?label=Follow&style=social)](https://github.com/arifwardan/?tab=follow){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=Instagram&link=https://www.instagram.com/arifwardan_/)](https://www.instagram.com/arifwardan_/){:target="_blank"} 
+[![Facebook Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=facebook&link=https://www.facebook.com/ariff.wardan/)](https://www.facebook.com/ariff.wardan/){:target="_blank"} 
+[![Telegram Badge](https://img.shields.io/badge/-Arif_Wardan-blue?style=social&logo=telegram&link=https://www.t.me/Arif_Wardan/)](https://www.t.me/arifwardan/){:target="_blank"} 
+[![Linkedin: arif-wardan](https://img.shields.io/badge/-Arif_Wardan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifwardan/)](https://www.linkedin.com/in/arifwardan/){:target="_blank"}
 ![](https://komarev.com/ghpvc/?username=arifwardan&style=flat-square)
 
- </div>
+</div>
+
 
 <div align="center">
 <b>Languages, Frameworks, and Tools :</b>  
