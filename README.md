@@ -85,7 +85,7 @@ I am Arif Wardan, a passionate software developer with a focus on backend develo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwardan&theme=tokyonight" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwardan&theme=tokyonight" alt="GitHub Streak Stats"> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
