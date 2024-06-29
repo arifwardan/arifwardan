@@ -25,11 +25,7 @@
     <img src="https://img.shields.io/badge/-Arif_Wardan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: arif-wardan">
 </a>
 <img src="https://komarev.com/ghpvc/?username=arifwardan&style=flat-square" alt="Profile Views">
-
 </div>
-
-
-
 
 <div align="center">
 <b>Languages, Frameworks, and Tools :</b>  
@@ -76,7 +72,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwardan&layout=compact&theme=dracula" alt="languages" height="165">
 </p>
 
- <p align="center">
+
+<-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arifwardan&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
 </p>
 
@@ -88,4 +85,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifwardan&theme=dracula&repo=bash" />
 </a>
 </p>
-
