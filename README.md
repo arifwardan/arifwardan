@@ -48,8 +48,8 @@ Here are some of the key projects and repositories that I have worked on:
 ### ✨ Recent Blog Posts
 
 - [Understanding Microservices Architecture](https://arifwardan.medium.com/understanding-microservices-architecture-99351849ddb2)
-- [Introduction to Docker and Kubernetes](https://medium.com/@arifwardan/introduction-to-docker-and-kubernetes)
-- [Optimizing SQL Queries for Better Performance](https://medium.com/@arifwardan/optimizing-sql-queries-for-better-performance)
+- [Introduction to Docker and Kubernetes](https://arifwardan.medium.com/introduction-to-docker-and-kubernetes-779151f2fc99)
+- [Optimizing SQL Queries for Better Performance](https://arifwardan.medium.com/optimizing-sql-queries-for-better-performance-4ed1e1ab1882)
 
 Follow me on [Medium](https://medium.com/@arifwardan) to read more of my articles and stay updated on my latest insights.
 
