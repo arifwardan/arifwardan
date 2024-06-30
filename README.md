@@ -58,9 +58,9 @@ Follow me on [Medium](https://medium.com/@arifwardan) to read more of my article
 ### 🔗 Get in Touch
 I am always open to new opportunities and collaborations. If you are interested in working together, have an exciting project in mind, or simply want to connect, feel free to reach out!
 
-- 📧 **Email**: [arif.wardan@example.com](mailto:arifwardan.id@gmail.com)
+- 📧 **Email**: [arifwardan.id@gmail.com](mailto:arifwardan.id@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/arifwardan](https://www.linkedin.com/in/arifwardan)
-- 🐦 **Twitter**: [twitter.com/arifwardan](https://twitter.com/wardanize)
+- 🐦 **Twitter**: [twitter.com/wardanize](https://twitter.com/wardanize)
   
 ---
 
