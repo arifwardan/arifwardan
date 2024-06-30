@@ -55,22 +55,13 @@ Follow me on [Medium](https://medium.com/@arifwardan) to read more of my article
 
 ---
 
-### 🏆 GitHub Trophies
-
-
----
-
 ### 🔗 Get in Touch
 I am always open to new opportunities and collaborations. If you are interested in working together, have an exciting project in mind, or simply want to connect, feel free to reach out!
 
 - 📧 **Email**: [arif.wardan@example.com](mailto:arifwardan.id@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/arifwardan](https://www.linkedin.com/in/arifwardan)
 - 🐦 **Twitter**: [twitter.com/arifwardan](https://twitter.com/wardanize)
----
-
-## Let's Collaborate
-I'm passionate about building the future through technology. Whether it's a challenging project, a groundbreaking idea, or an innovative solution, I'm eager to collaborate with like-minded individuals and organizations. Let's connect and create something extraordinary together!
-
+  
 ---
 
 ### ⚡ Fun Facts
