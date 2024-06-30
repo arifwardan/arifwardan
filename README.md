@@ -69,6 +69,7 @@ I am always open to new opportunities and collaborations. If you are interested 
 - 💡 I love experimenting with new technologies and building innovative projects.
 - 🌍 I enjoy traveling and exploring new cultures.
 - 🧩 I am a puzzle enthusiast and enjoy solving complex problems.
+- 🌎 I'm interested in the flat earth theory, not because I fully believe in it, but because I appreciate the courage of those who express their opinions and beliefs.
 
 ---
 
